@@ -16,3 +16,4 @@ spec:
       containers:
       - name: udacitypythonapp
         image: atefhares/udacity:latest
+

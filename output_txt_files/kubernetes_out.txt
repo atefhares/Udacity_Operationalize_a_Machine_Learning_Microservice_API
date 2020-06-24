@@ -1,0 +1,7 @@
+(.devops) [atefhares@instance-1 Operationalize a Machine Learning Microservice API]$ kubectl get pods
+NAME                                READY   STATUS        RESTARTS   AGE
+udacitypythonapp-7bd8c5d887-6h7jb   1/1     Running       0          63s
+udacitypythonapp-7bd8c5d887-fxqpj   1/1     Running       0          63s
+udacitypythonapp-7bd8c5d887-m4rf6   1/1     Running       0          63s
+udacitypythonapp-7bd8c5d887-w98ff   1/1     Running       0          63s
+(.devops) [atefhares@instance-1 Operationalize a Machine Learning Microservice API]$
