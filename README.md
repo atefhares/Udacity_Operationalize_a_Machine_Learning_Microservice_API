@@ -40,3 +40,10 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Screenshots
+![](https://github.com/atefhares/Udacity_Operationalize_a_Machine_Learning_Microservice_API/blob/master/screenshots/Selection_012.png)
+#
+![](https://github.com/atefhares/Udacity_Operationalize_a_Machine_Learning_Microservice_API/blob/master/screenshots/Selection_013.png)
+#
+![](https://github.com/atefhares/Udacity_Operationalize_a_Machine_Learning_Microservice_API/blob/master/screenshots/kubernetes.png)
